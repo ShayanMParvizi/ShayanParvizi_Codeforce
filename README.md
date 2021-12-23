@@ -33,9 +33,9 @@ List of features ready and TODOs for future development
 
 ## Usage
 ![image](https://user-images.githubusercontent.com/92421520/147262965-749494f9-1737-4b06-a6b3-49a13d8e69c6.png)
-Web-to-Lead form that takes the Contact information from user
+* Web-to-Lead form that takes the Contact information from user
 ![image](https://user-images.githubusercontent.com/92421520/147263643-b3c0695e-0203-4218-868f-3d113b794f4d.png)
-Web-to-Case form that takes case submission, looks up any contact that was created in Web-to-Lead form
+* Web-to-Case form that takes case submission, looks up any contact that was created in Web-to-Lead form
 
 
 ## Contributors
